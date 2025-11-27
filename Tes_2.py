@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
-import scipy
-from scipy.stats import norm, t
+from scipy.stats import norm.cdf, t.cdf
 
 st.title("📊 Dashboard Pengujian Hipotesis — Uji Rata-rata 1 Sampel (Z & T Test)")
 
