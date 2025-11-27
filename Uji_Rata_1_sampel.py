@@ -92,3 +92,4 @@ if st.button("Hitung"):
             st.success("✔ Keputusan: Terima H0")
 
 st.markdown("---")
+!streamlit run Tes_1.py
